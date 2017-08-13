@@ -1,0 +1,4 @@
+Lancer un console power shell en administrateur
+
+Puis lancer la commande set-executionpolicy unrestricted
+Puis faire entrée
